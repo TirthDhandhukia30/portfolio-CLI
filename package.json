@@ -1,0 +1,41 @@
+{
+  "name": "tirthh",
+  "version": "3.0.2",
+  "description": "Tirth Dhandhukia's modern, sleek, and minimal terminal portfolio.",
+  "bin": {
+    "tirthh": "./index.js"
+  },
+  "author": "Tirth Dhandhukia <tirth@example.com>",
+  "license": "MIT",
+  "keywords": [
+    "portfolio",
+    "cli",
+    "npx",
+    "terminal-card",
+    "tirth",
+    "developer",
+    "ascii-art",
+    "minimal",
+    "modern",
+    "sleek"
+  ],
+  "homepage": "https://github.com/tirth/tirthh#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tirth/tirthh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tirth/tirthh/issues"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "boxen": "^7.1.1",
+    "gradient-string": "^2.0.2",
+    "figlet": "^1.7.0",
+    "cli-cursor": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "type": "module"
+}
