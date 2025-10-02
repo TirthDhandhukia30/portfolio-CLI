@@ -1,4 +1,4 @@
-# Tirth Dhandhukia - Terminal Portfolio
+# Terminal Portfolio
 
 > A minimal terminal-based portfolio
 
